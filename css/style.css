@@ -25,8 +25,8 @@
 
 /*Estiçp Desltop*/
 body {
-    background-color: #FFFFFF;
-    color: #000000;
+    background-color: #232323;
+    color: #FFFFFF;
 }
 
 h1 span {
@@ -39,7 +39,7 @@ header img {
 }
 
 h1 {
-    font-size: 64px;
+    font-size: 80px;
     font-family: "Unbouded" , sans-serif;
     text-align: center;
     margin-top: 60px;
