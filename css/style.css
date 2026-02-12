@@ -92,6 +92,32 @@ section img {
 }
 
 
+@media (max-width: 720px) {
+    header img {
+        margin: 48px auto 0;
+    }
+
+    h1 {
+        font-size: 48px;
+    }
+
+    p {
+        font-size: 20px;
+        width: 90%;
+    }
+
+    a {
+        width: 280px;
+        font-size: 20px;
+    }
+
+    section img {
+        max-width: 90%;
+        height: auto;
+    }
+}
+
+
 
 @media(max-width: 375px){
     header img {
